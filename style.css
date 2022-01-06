@@ -67,6 +67,7 @@ h2{
     margin: 2%;
     box-shadow: 8px 8px 10px grey;
     height: 100%;
+    width:30%;
 }
 .vission{
     background-color: rgb(231, 247, 162);
@@ -75,6 +76,7 @@ h2{
     margin: 2%;
     box-shadow: 8px 8px 7px grey;
     height: 100%;
+    width: 30%;
 }
 .Goals{
     background-color: rgb(243, 190, 234);
@@ -83,6 +85,7 @@ h2{
     margin: 2%;
     box-shadow: 8px 8px 7px grey;
     height: 100%;
+    width: 30%;
 }
 .mvs{
     height: 60%;
