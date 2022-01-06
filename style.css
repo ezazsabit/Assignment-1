@@ -158,11 +158,12 @@ h3{
 }
 .aware{
     font-size: 35px;
+    padding: 45px;
 }
 #Corona{
-    background-color: rgb(243, 190, 234);
+    background-color: rgb(199, 171, 194);
     border-radius: 15px;
-    height: 750px;
+    height: 950px;
     margin-top: 5%;
 
 }
