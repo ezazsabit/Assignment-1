@@ -149,6 +149,7 @@ h3{
 }
 .awareness img{
     margin: 5%;
+    box-shadow: 18px 18px 20px black;
 }
 .corona{
     color: rgb(230, 67, 67);
@@ -161,9 +162,11 @@ h3{
     padding: 45px;
 }
 #Corona{
+    border: 15px gray;
+    border-style: dotted;
     background-color: rgb(199, 171, 194);
     border-radius: 15px;
-    height: 950px;
+    height: 1150px;
     margin-top: 5%;
 
 }
