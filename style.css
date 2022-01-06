@@ -143,6 +143,29 @@ h3{
     font-size: 70px;
     
 }
+.awareness{
+    display: flex;
+    
+}
+.awareness img{
+    margin: 5%;
+}
+.corona{
+    color: rgb(230, 67, 67);
+    font-weight: bolder;
+    font-size: 130px;
+    
+}
+.aware{
+    font-size: 35px;
+}
+#Corona{
+    background-color: rgb(243, 190, 234);
+    border-radius: 15px;
+    height: 750px;
+    margin-top: 5%;
+
+}
 footer{
     color: blanchedalmond;
     background-color: black;
